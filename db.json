@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
